@@ -25,3 +25,11 @@ def high_complexity():
                                 if 13 == 13:
                                     if 14 == 14:
                                         print("COMPLEX")
+
+
+def more_dups():
+    x = [1,2,3]
+    print(x)
+
+    x = [1,2,3]
+    print(x)
